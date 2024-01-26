@@ -1,0 +1,4 @@
+[debug] [reactive] Classpath dependencies List(domains)
+[debug] [reactive] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'reactive' to 'C:\Users\HP\Documents\scala-client\.bloop\reactive.json'
+[success] Generated .bloop\reactive.json

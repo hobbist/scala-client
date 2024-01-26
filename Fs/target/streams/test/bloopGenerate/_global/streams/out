@@ -1,0 +1,4 @@
+[debug] [fs-test] Classpath dependencies List(domains)
+[debug] [fs-test] Dependencies from configurations List(fs)
+[debug] Bloop wrote the configuration of project 'fs-test' to 'C:\Users\HP\Documents\scala-client\.bloop\fs-test.json'
+[success] Generated .bloop\fs-test.json

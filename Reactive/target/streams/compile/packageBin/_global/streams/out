@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\reactive_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ObservableProcessor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\ObservableProcessor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Reactive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\Reactive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Reactive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\Reactive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Reactive.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\HP\Documents\scala-client\Reactive\target\scala-3.3.0\classes\Reactive.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
